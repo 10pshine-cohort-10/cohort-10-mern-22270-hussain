@@ -1,0 +1,4 @@
+{
+  "include": ["server/**/*.js"],
+  "exclude": ["server/index.js", "server/migrate.js", "server/db.js"]
+}
